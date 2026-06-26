@@ -1,0 +1,1 @@
+CREATE SCHEMA tenant_tienda_alfa;
